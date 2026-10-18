@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed for concept fixes (walk, wall, tunnel).
+Last refreshed for walk, wall and tunnel fixes.
