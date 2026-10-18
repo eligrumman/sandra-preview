@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed for museum joystick.
+Last refreshed for wall home page and museum.
