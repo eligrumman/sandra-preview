@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-10-20T08:08Z: Sandra's catalog (titles, sizes, prices, descriptions).
+Last refreshed 2026-10-20T08:39Z: exhibition rooms at real size, English.
