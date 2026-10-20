@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-10-20T09:22Z: zoom only for the work in focus.
+Last refreshed 2026-10-20T09:38Z: Under 1000 purchase links, five more works.
