@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-10-20T09:08Z: Electric Equine Drift restored.
+Last refreshed 2026-10-20T09:22Z: zoom only for the work in focus.
