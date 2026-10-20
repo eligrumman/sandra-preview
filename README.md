@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-10-20T11:16Z: museum bar on phones.
+Last refreshed 2026-10-20T20:37Z: museum painting fills the phone screen.
