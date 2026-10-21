@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-10-21T05:23Z: WhatsApp contact, catalog details only.
+Last refreshed 2026-10-21T12:38Z: museum signs both ways, offset doorways.
