@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-05T15:25Z: professional framing.
+Last refreshed 2026-11-05T19:03Z: favicon link on book, dragon and museum pages.
