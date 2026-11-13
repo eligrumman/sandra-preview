@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-13T06:00Z: site improvements (credibility, achievements, workshops, structured data, SEO, accessibility).
+Last refreshed 2026-11-13T04:47Z: work slug blue-horses renamed to thoughtful-wanderer.
