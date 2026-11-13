@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-13T04:03Z: biography page in Hebrew, English and Russian.
+Last refreshed 2026-11-13T05:00Z: biography page with portrait and workshop photo.
