@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-13T05:00Z: biography page with portrait and workshop photo.
+Last refreshed 2026-11-13T06:00Z: site improvements (credibility, achievements, workshops, structured data, SEO, accessibility).
