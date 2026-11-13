@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-13T05:10Z: new profile portrait.
+Last refreshed 2026-11-13T05:22Z: smaller home About portrait.
