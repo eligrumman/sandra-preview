@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-13T05:57Z: cookieless PostHog analytics (preview only).
+Last refreshed 2026-11-13T17:55Z: PostHog analytics now also live on production sandraleifer.com (main f506134); mirror content unchanged.
