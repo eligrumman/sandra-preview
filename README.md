@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-14: preview only, new body-art gallery page (he/en/ru), awaiting Owner decisions. Branch feat/body-art-gallery 19928d7, branch feat/immersive-artist-portfolio 19ef776.
+Last refreshed 2026-11-14: preview only, body-art gallery now 21 photos + duplicate heading fixed (he/en/ru), awaiting Owner decisions. Branch feat/body-art-gallery 23bc16d, branch feat/immersive-artist-portfolio cd3bf43.
