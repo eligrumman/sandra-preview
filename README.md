@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-14: preview only, body art without doubles: /body-art/ shows the 5 catalog body works first (cards to their work pages), 5 duplicate photos removed, mirror room figures for smoke, gaze and chromatic-reverie open the catalog images. Branch feat/immersive-artist-portfolio 3d8b415.
+Last refreshed 2026-11-14: preview only, NeuroGraphica QA fixes: shallow crossings rounded with a thin tongue of ink, one tap rounds one corner in a tight knot, a miss-tap on the rounding steps draws nothing (hint instead), recolouring replaces a space's colour (one undo brings it back), no colouring tool on step 8, one cream paper colour everywhere. Branch feat/immersive-artist-portfolio 75edf8b.
