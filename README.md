@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-14: preview only, IA quick wins: closing block (WhatsApp, workshops, works) on /about/ and /body-art/, workshops right after works on home, series merged into the gallery filters, short About teaser, /concepts/ and the book's editor-notes button removed, section numbering and nav labels aligned. Branch feat/immersive-artist-portfolio b9c52a2.
+Last refreshed 2026-11-15: preview only, the mirror room is now a white backstage makeup room inside the museum (room 4, reached on foot or via museum/?room=mirror): vanity mirrors with bulbs, figures in makeup chairs seen in the reflection; the walking Sandra figure is removed and /mirror-room/ redirects into the museum room. Branch feat/immersive-artist-portfolio 4f6361f.
