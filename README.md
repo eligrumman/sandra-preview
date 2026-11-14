@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-14: preview only, body-art gallery contests split into 2025 (body-art-13) and 2026 (events) sub-sections (he/en/ru), awaiting Owner decisions. Branch feat/body-art-gallery 66fde5c, branch feat/immersive-artist-portfolio c8bfebb.
+Last refreshed 2026-11-14: preview only, new 3D mirror room (mirror-room/, he/en/ru) with body-art figures, linked from the body-art pages and the museum; production waits on the Owner's model-consent answer. Branch feat/mirror-room adfd26c, branch feat/immersive-artist-portfolio 50143f2.
