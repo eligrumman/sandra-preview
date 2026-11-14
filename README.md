@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-14: preview only, new 3D mirror room (mirror-room/, he/en/ru) with body-art figures, linked from the body-art pages and the museum; production waits on the Owner's model-consent answer. Branch feat/mirror-room adfd26c, branch feat/immersive-artist-portfolio 50143f2.
+Last refreshed 2026-11-14: preview only, NeuroGraphica (neurographics/): solid filleted corners with no void, tap a corner (or the crossing) to round it, plus new closing steps: round the corners again, colour every space, check in again (texts are a draft for Sandra). Awaiting the Owner's OK. Branch feat/ng-fillets 1985c9f, branch feat/immersive-artist-portfolio 6fa774f.
