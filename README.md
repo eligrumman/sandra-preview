@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-14: preview only, NeuroGraphica QA fixes: shallow crossings rounded with a thin tongue of ink, one tap rounds one corner in a tight knot, a miss-tap on the rounding steps draws nothing (hint instead), recolouring replaces a space's colour (one undo brings it back), no colouring tool on step 8, one cream paper colour everywhere. Branch feat/immersive-artist-portfolio 75edf8b.
+Last refreshed 2026-11-14: preview only, IA quick wins: closing block (WhatsApp, workshops, works) on /about/ and /body-art/, workshops right after works on home, series merged into the gallery filters, short About teaser, /concepts/ and the book's editor-notes button removed, section numbering and nav labels aligned. Branch feat/immersive-artist-portfolio b9c52a2.
