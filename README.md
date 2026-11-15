@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-15: one photo per model on the body-art page, the hero wall and the makeup room (6 second photos dropped; 14 chairs + 3 end-wall prints), and the hero wall no longer throws when images.js fails to load, merged from main. Branch feat/immersive-artist-portfolio 4341b88.
+Last refreshed 2026-11-15: the museum's fourth room is now called בודי־ארט / Боди-арт / Body art (was the mirror room; ?room=mirror and /mirror-room/ still work), and it walks, taps, zooms and steps with the arrows and the tour exactly as rooms 1-3 (no full-screen lightbox; catalog works on chairs get their work card and the buy link); on the phone a sold work no longer shows a buy button. Branch feat/immersive-artist-portfolio 10f5168.
