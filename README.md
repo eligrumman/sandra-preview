@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-15: the language suggestion on the Hebrew home (ru/en banner, no auto-redirect) and a remembered ru/en choice (sl_lang) returning the visitor, merged from main. Branch feat/immersive-artist-portfolio 2223e46.
+Last refreshed 2026-11-15: one photo per model on the body-art page, the hero wall and the makeup room (6 second photos dropped; 14 chairs + 3 end-wall prints), and the hero wall no longer throws when images.js fails to load, merged from main. Branch feat/immersive-artist-portfolio 4341b88.
