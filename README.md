@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-15: preview only, the home-page wall now mixes in the body-art photos (nudity-tagged ones included, Owner OK) and the makeup room has all of them (22 stations); tapping a photo on the wall opens the body-art lightbox. Branch feat/immersive-artist-portfolio 8ed317c.
+Last refreshed 2026-11-15: the language suggestion on the Hebrew home (ru/en banner, no auto-redirect) and a remembered ru/en choice (sl_lang) returning the visitor, merged from main. Branch feat/immersive-artist-portfolio 2223e46.
