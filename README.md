@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-15: preview only, museum lobby with a doorway to each of the four rooms; the makeup room shows the whole photos on the chairs, opened in the gallery lightbox; body-art lightbox counter reads 1 / 20 in Hebrew. Branch feat/immersive-artist-portfolio 8fd47ef.
+Last refreshed 2026-11-15: preview only, the gallery's body-art chip is a link to the body-art page (with an arrow) instead of a filter; museum lobby, makeup room photos and the body-art lightbox counter as before. Branch feat/immersive-artist-portfolio 2ccb1a7.
