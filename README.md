@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-15: the museum's fourth room is now called בודי־ארט / Боди-арт / Body art (was the mirror room; ?room=mirror and /mirror-room/ still work), and it walks, taps, zooms and steps with the arrows and the tour exactly as rooms 1-3 (no full-screen lightbox; catalog works on chairs get their work card and the buy link); on the phone a sold work no longer shows a buy button. Branch feat/immersive-artist-portfolio 10f5168.
+Last refreshed 2026-11-16: the home page's moving wall loads small 480px thumbnails, only for the tiles on screen, each tile shows its colour until the photo arrives, and the gallery below no longer downloads all its large images at once on the iPhone (first wall image on a slow phone network about 5 s instead of about 22 s). Branch feat/immersive-artist-portfolio ae27aea.
