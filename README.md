@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-16: the home page's moving wall loads small 480px thumbnails, only for the tiles on screen, each tile shows its colour until the photo arrives, and the gallery below no longer downloads all its large images at once on the iPhone (first wall image on a slow phone network about 5 s instead of about 22 s). Branch feat/immersive-artist-portfolio ae27aea.
+Last refreshed 2026-11-17: NeuroGraphica guide: the 20 words no longer vanish when the two minutes end (kept across steps, language and reload), an opening choice of paper and markers (guided steps with pictures) or the phone, more lines encouraged, the figure drawn by hand, and a tap near corners rounds them. Branch feat/immersive-artist-portfolio c83417e.
