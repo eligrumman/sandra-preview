@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-17: NeuroGraphica guide: the 20 words no longer vanish when the two minutes end (kept across steps, language and reload), an opening choice of paper and markers (guided steps with pictures) or the phone, more lines encouraged, the figure drawn by hand, and a tap near corners rounds them. Branch feat/immersive-artist-portfolio 65683d6.
+Last refreshed 2026-11-17: NeuroGraphica guide: the 20 words no longer vanish when the two minutes end (kept across steps, language and reload), an opening choice of paper and markers (guided steps with pictures) or the phone, more lines encouraged, the figure drawn by hand, and a tap near corners rounds them. Branch feat/immersive-artist-portfolio fd03c0e.
