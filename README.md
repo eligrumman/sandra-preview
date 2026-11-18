@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-18: NeuroGraphica round 2 (Owner notes): every line black with its own width, the central figure line clearly thickest, no colours or fills while corners are filled, one tap fills the one nearest corner, small closed spaces next to a filled corner are inked in, and nothing gets filled while the central line is drawn (its corners wait for the next step). Branch feat/immersive-artist-portfolio 1b4e17d.
+Last refreshed 2026-11-18: NeuroGraphica round 2 (Owner notes): every line black with its own width, the central figure line clearly thickest, no colours or fills while corners are filled, one tap fills the one nearest corner, small closed spaces next to a filled corner are inked in, and nothing gets filled while the central line is drawn (old ink stays under it; its new corners wait for the next step). Branch feat/immersive-artist-portfolio a58dbb7.
