@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-20: NeuroGraphica landing page in Russian (/ru/neurographica/, main search language) and Hebrew (/neurographica/) with FAQ, steps, Sandra's NeuroGraphica works and WhatsApp booking; llms.txt; the children's fairy tales left the home page and open from the menu. Branch feat/immersive-artist-portfolio 7bf276d.
+Last refreshed 2026-11-20: NeuroGraphica landing page in Russian (/ru/neurographica/, main search language) and Hebrew (/neurographica/) with FAQ, steps, Sandra's NeuroGraphica works and WhatsApp booking; llms.txt; the children's fairy tales left the home page and open from the menu. Branch feat/immersive-artist-portfolio d07d11d.
