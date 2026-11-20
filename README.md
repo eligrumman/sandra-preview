@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-20: NeuroGraphica landing page in English (/en/neurographica/), next to Russian and Hebrew, with hreflang ru/he/en and a link from the English home. Branch feat/immersive-artist-portfolio fa4bbcd.
+Last refreshed 2026-11-20: analytics opt-out (?notrack=1 / ?notrack=0) and the Search Console verification file. Branch feat/immersive-artist-portfolio 4c2fed1.
