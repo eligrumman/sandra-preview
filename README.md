@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-20: phone header fix, the menu button no longer sits off-screen at 390px (he, ru, en). Branch feat/immersive-artist-portfolio 5d2d02d.
+Last refreshed 2026-11-20: NeuroGraphica landing page in English (/en/neurographica/), next to Russian and Hebrew, with hreflang ru/he/en and a link from the English home. Branch feat/immersive-artist-portfolio fa4bbcd.
