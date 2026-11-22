@@ -6,4 +6,4 @@ The source is [eligrumman/sandra-books](https://github.com/eligrumman/sandra-boo
 
 Pages source: Settings → Pages → Source: GitHub Actions. No custom domain.
 
-Last refreshed 2026-11-20: yoga landing page (ru/he/en, DRAFT pending Sandra) plus analytics opt-out and the Search Console verification file. Branch feat/immersive-artist-portfolio 525c756.
+Last refreshed 2026-11-22: yoga landing page taken off the preview at the Owner's request (needs more material from Sandra; branch feat/yoga-landing kept). Branch feat/immersive-artist-portfolio eb7756b.
